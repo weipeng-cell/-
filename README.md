@@ -3,7 +3,7 @@
 ### 个人介绍
 - 姓名：韦鹏
 
-![image](https://github.com/weipeng-cell/weipeng.github.io/blob/gh-pages/mmexport1587035142597.jpg )
+![image](https://github.com/weipeng-cell/cainiao/blob/gh-pages/mmexport1587035142597.jpg)
 
 - 联系方式：18855898265
 - 电子邮箱：525598533qq.com
